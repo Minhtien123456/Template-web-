@@ -1,0 +1,47 @@
+
+
+/* mobile */
+@media(max-width:739px){
+    .nav >li {
+        display: block;
+    }
+    #header{
+        overflow: hidden;
+    }
+    #header .font-search {
+        display: none;
+    }
+    #content .team-list {
+        display: block;
+    }
+    #content .team-img {
+        width: 100%;
+    }
+    .tour-list {
+        display:block;
+        width: 100%;
+    }
+    .tour-item {
+        width: 100%;
+    }
+    .ticket {
+        margin-bottom: 8px;
+    }
+    .content-session {
+        padding-bottom: 250px;
+
+    }
+    #content .tour-session {
+        margin-top: -200px;
+    }
+    .contact-item {
+        margin-left: -21px;
+    }
+    .ti-location-pin, .ti-mobile, .ti-email {
+        width: 81%;
+        margin-top: -2px;
+    }
+
+    
+/* ...... */
+}
